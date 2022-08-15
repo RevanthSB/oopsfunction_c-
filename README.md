@@ -12,12 +12,15 @@ program structure includes
   constructor - It will send the arguments at the time of constructing an objects
   
   Mutators and Accesors are collectively known as property function
+  
           Mutators - Write Only property
+          
           Accessors - Read Only property
           
  Facilitators - Functions which contains set of operation , it is a return type function
  
  Abrastraction is Introduced in this program 
+ 
                      - To prevent class from mishandling by the users
                      
   That's all about this program.
