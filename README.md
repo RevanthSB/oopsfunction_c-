@@ -1,6 +1,6 @@
 # oopsfunction_cpp
 
-I have created a program of student mark allocation system using object oreinted programming 
+I have created a program of student mark allocation system using object oreinted programming in C++ programming language
 
 program structure includes 
 
